@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.14.18](https://github.com/langchain-ai/langsmith-python/compare/v0.14.17...v0.14.18) (2026-11-02)
+
+
+### Features
+
+* **sandboxes:** narrow AWS/GCP proxy rules with match_hosts, pass through presigned URLs ([107469c](https://github.com/langchain-ai/langsmith-python/commit/107469c6d225dac9f03d2a447ed74e3378547824))
+
 ## [0.14.17](https://github.com/langchain-ai/langsmith-python/compare/v0.14.16...v0.14.17) (2026-11-02)
 
 
